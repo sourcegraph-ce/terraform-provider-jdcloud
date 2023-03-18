@@ -8,7 +8,7 @@ import (
 	"github.com/jdcloud-api/jdcloud-sdk-go/services/vpc/apis"
 	"github.com/jdcloud-api/jdcloud-sdk-go/services/vpc/client"
 	"github.com/jdcloud-api/jdcloud-sdk-go/services/vpc/models"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"time"
 )
 

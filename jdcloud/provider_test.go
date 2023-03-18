@@ -3,7 +3,7 @@ package jdcloud
 import (
 	"github.com/hashicorp/terraform/helper/schema"
 	"github.com/hashicorp/terraform/terraform"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"os"
 	"testing"
 )
