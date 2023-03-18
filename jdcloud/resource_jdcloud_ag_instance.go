@@ -8,7 +8,7 @@ import (
 	"github.com/jdcloud-api/jdcloud-sdk-go/services/vm/apis"
 	"github.com/jdcloud-api/jdcloud-sdk-go/services/vm/client"
 	vm "github.com/jdcloud-api/jdcloud-sdk-go/services/vm/models"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"time"
 )
 
